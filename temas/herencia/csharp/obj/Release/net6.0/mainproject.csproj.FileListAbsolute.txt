@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Faculté\Cadiz\IISS\impl-24\temas\herencia\csharp\bin\Release\net6.0\mainproject.exe
+C:\Users\User\Documents\Faculté\Cadiz\IISS\impl-24\temas\herencia\csharp\bin\Release\net6.0\mainproject.deps.json
+C:\Users\User\Documents\Faculté\Cadiz\IISS\impl-24\temas\herencia\csharp\bin\Release\net6.0\mainproject.runtimeconfig.json
+C:\Users\User\Documents\Faculté\Cadiz\IISS\impl-24\temas\herencia\csharp\bin\Release\net6.0\mainproject.dll
+C:\Users\User\Documents\Faculté\Cadiz\IISS\impl-24\temas\herencia\csharp\bin\Release\net6.0\ref\mainproject.dll
+C:\Users\User\Documents\Faculté\Cadiz\IISS\impl-24\temas\herencia\csharp\bin\Release\net6.0\mainproject.pdb
+C:\Users\User\Documents\Faculté\Cadiz\IISS\impl-24\temas\herencia\csharp\obj\Release\net6.0\mainproject.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Faculté\Cadiz\IISS\impl-24\temas\herencia\csharp\obj\Release\net6.0\mainproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Faculté\Cadiz\IISS\impl-24\temas\herencia\csharp\obj\Release\net6.0\mainproject.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Faculté\Cadiz\IISS\impl-24\temas\herencia\csharp\obj\Release\net6.0\mainproject.AssemblyInfo.cs
+C:\Users\User\Documents\Faculté\Cadiz\IISS\impl-24\temas\herencia\csharp\obj\Release\net6.0\mainproject.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Faculté\Cadiz\IISS\impl-24\temas\herencia\csharp\obj\Release\net6.0\mainproject.dll
+C:\Users\User\Documents\Faculté\Cadiz\IISS\impl-24\temas\herencia\csharp\obj\Release\net6.0\ref\mainproject.dll
+C:\Users\User\Documents\Faculté\Cadiz\IISS\impl-24\temas\herencia\csharp\obj\Release\net6.0\mainproject.pdb
+C:\Users\User\Documents\Faculté\Cadiz\IISS\impl-24\temas\herencia\csharp\obj\Release\net6.0\mainproject.genruntimeconfig.cache
